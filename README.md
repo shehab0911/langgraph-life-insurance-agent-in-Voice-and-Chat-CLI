@@ -198,10 +198,11 @@ Here’s a sample interaction with the Life Insurance Support Agent:
 
 ---
 
-## 🎥 Demo Video
+## 🎥 Live Demo
 
-▶️ **Watch the full demo on Loom:**  
-➡️ **[Play the demo video](VoiceAndChatCLI.mp4)** 
+### 👉 [Play the demo video](https://www.loom.com/share/f2060997ceda4780841207e89e33d566)
+
+[![Watch the video](https://cdn.loom.com/sessions/thumbnails/c5660997ceda4780841207e89e33d566-00001.jpg)](https://www.loom.com/share/f2060997ceda4780841207e89e33d566)
 
 
 ## ⚡ Latency Optimization
