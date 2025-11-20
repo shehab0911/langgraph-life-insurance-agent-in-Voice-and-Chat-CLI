@@ -201,7 +201,7 @@ Here’s a sample interaction with the Life Insurance Support Agent:
 ## 🎥 Demo Video
 
 ▶️ **Watch the full demo on Loom:**  
-https://www.loom.com/share/c566997354fe43418ce0a45fe6e0b029
+➡️ **[Play the demo video](VoiceAndChatCLI.mp4)** 
 
 
 ## ⚡ Latency Optimization
