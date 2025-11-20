@@ -202,8 +202,6 @@ Here’s a sample interaction with the Life Insurance Support Agent:
 
 ### 👉 [Play the demo video](https://www.loom.com/share/f2060997ceda4780841207e89e33d566)
 
-[![Watch the video](https://cdn.loom.com/sessions/thumbnails/c5660997ceda4780841207e89e33d566-00001.jpg)](https://www.loom.com/share/f2060997ceda4780841207e89e33d566)
-
 
 ## ⚡ Latency Optimization
 
