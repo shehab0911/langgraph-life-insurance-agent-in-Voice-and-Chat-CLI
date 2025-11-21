@@ -72,8 +72,8 @@ The system follows a client-server architecture:
 ### **1. Clone the Repository**
 
 ```bash
-https://github.com/shehab0911/langgraph-life-insurance-agent-in-Voice-and-Chat-CLI.git
-cd langgraph-life-insurance-agent-in-Voice-and-Chat-CLI.git
+[https://github.com/shehab0911/Life-Insurance-Assistant.git]
+cd Life-Insurance-Assistant
 ```
 
 ---
